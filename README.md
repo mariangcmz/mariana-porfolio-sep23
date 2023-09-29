@@ -9,6 +9,7 @@ This project is a first draft of a personal portfolio, it solves the problem of 
 You can click on the links at the top to go to a specific section
 
 ![Screenshot](Assets\Images\Screenshot-portfolio1.jpg)
+https://mariangcmz.github.io/mariana-porfolio-sep23/
 
 ## Features
 
