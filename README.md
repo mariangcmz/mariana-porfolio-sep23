@@ -8,7 +8,7 @@ This project is a first draft of a personal portfolio, it solves the problem of 
 
 You can click on the links at the top to go to a specific section
 
-![alttext](Assets\Images\Screenshot-portfolio.png)
+![alttext](Assets\Images\Screenshot-portfolio1.jpg)
 
 ## Features
 
