@@ -22,23 +22,30 @@ nav p{
 section.content{
     display: flex;
     flex-direction: column;
+    justify-content: flex-start;
     color: #d9e2d7;
     background-color: #6f8569;
 }
-.h1{
+h1{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #5a7752;
-    color: rgb(31, 30, 30);
+    color: rgb(224, 217, 217);
 }
-.about-me h2{
+ h2{
     display: flex;
     font-size: 30px;
     color: rgb(218, 213, 213);
 }
-img {
-    display: flex;
-    flex-wrap:wrap;
-    width: 200px;
-    padding: 10px;
-    border: 3px solid rgb(49, 68, 49);
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
+.work img{
+    display: flex;
+    width: 60%;
+}
+.about-me img {
+    max-width: 40% ;
+    height: auto;
+}
+    
